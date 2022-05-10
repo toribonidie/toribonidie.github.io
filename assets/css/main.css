@@ -441,7 +441,7 @@ textarea {
 	}
 
 select {
-	background-image: url("https://pixabay.com/photos/milky-way-stars-night-sky-night-2695569/")
+	background-image: url("../../images/Astronomy.jpg")
 	background-size: 1.25rem;
 	background-repeat: no-repeat;
 	background-position: calc(100% - 1rem) center;
